@@ -1,0 +1,19 @@
+{
+  "axisA_recall": 0.8859990422028297,
+  "axisA_precision": 0.41677171164908544,
+  "axisA_f1": 0.5272327423509389,
+  "axisA_pearson_attention": 0.0008774413632552704,
+  "axisA_n_dockets_eval": 558,
+  "axisB_strict": 0.09715324046032707,
+  "axisB_loose": 0.8054512416717141,
+  "axisB_n_real_claims_evaluated": 8255,
+  "axisB_n_real_claims_with_candidates": 37023,
+  "axisB_n_pair_judgments": 58806,
+  "axisB_tokens_in": 14724186,
+  "axisB_tokens_out": 586589,
+  "axisC_jsd_mean": 0.17459639694989684,
+  "axisC_jsd_median": 0.14492859769667876,
+  "axisC_n_dockets_eval": 504,
+  "axisC_n_llm_claims_labeled": 26139,
+  "axisC_n_real_claims_labeled": 43371
+}

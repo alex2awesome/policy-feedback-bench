@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "PolicyFeedbackBench"
+message: "If you use this benchmark, please cite the accompanying paper."
+type: dataset
+authors:
+  - family-names: Spangher
+    given-names: Alexander
+    affiliation: Stanford University
+  - family-names: Yang
+    given-names: Diyi
+    affiliation: Stanford University
+  - family-names: Koyejo
+    given-names: Sanmi
+    affiliation: Stanford University
+  - family-names: Ho
+    given-names: Daniel E.
+    affiliation: Stanford University
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "PolicyFeedbackBench: Evaluating LLM Anticipation of Federal Public Comments"
+  authors:
+    - family-names: Spangher
+      given-names: Alexander
+    - family-names: Yang
+      given-names: Diyi
+    - family-names: Koyejo
+      given-names: Sanmi
+    - family-names: Ho
+      given-names: Daniel E.
+  year: 2026
+  conference:
+    name: "Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track"
